@@ -23,6 +23,10 @@ class App extends React.Component {
         </div>
       </header>
 
+      <section>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab, perferendis!
+      </section>
+
       <div className="blog" style={{ backgroundImage: `url('${blog}')` }}>
 
         <p>AWESOME, CUSTOMIZABLE, FREE</p>
